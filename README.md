@@ -4,7 +4,7 @@ I have been working as a Research Assistant in the Computer Science Department a
 
 From September 2023 to August 2024, I worked under Dr.Omar El Ariss, handling course materials for COSC 1436(Fundamental Programming 1) and COSC 1437(Fundamental Programming 2). During this session, individually, I developed Arcade PingPong & Maze games with Python. Also, I developed the Mortal Kombat game using Python & Java with Professor Omar El Ariss for COSC 1436 & COSC 1437 courses.
 
-Since September 2024, I have been working under Dr.Jinoh Kim and Dr.Dongeun Lee with 2 graduate students by researching Packet Stream Analysis using Machine Learning. Especially, I am in charge of Pre-Processing the data which will be used for machine learning. 
+Since September 2024, I have been working under Dr.Jinoh Kim and Dr.Dongeun Lee with 2 graduate students by researching Packet Stream Analysis using Machine Learning. Especially, I am in charge of Pre-Processing the Data which will be used for machine learning. 
 
 Personal Project Folder:
 
