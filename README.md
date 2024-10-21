@@ -10,11 +10,9 @@ Personal Project Folder:
 
 Personally, I made Maze Game and Arcade PingPong games with Python by using Mu Editor. In the Mu Editor, there is a PygameZero module, so I didn't need to download or import the module. In other words, there is no source code for importing the PygameZero module, so it won't be working on regular Python Editor like VSCode or Pycharm. I recommend using 'Mu Editor' with the PygameZero Mode. I put the website address below.
 
-COSC1436 Folder:
+COSC1436 Folder & COSC1437 Folder:
 
-COSC1437 Folder:
-
-Packet_Stream_Analysis:
+In this folder, it will include class materials for COSC 1436 & 1437 courses.
 
 Mu Editor Website: https://codewith.mu/
 
